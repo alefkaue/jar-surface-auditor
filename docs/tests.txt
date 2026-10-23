@@ -1,0 +1,21 @@
+PASS minimal class inspected without execution
+PASS newer base class is a compatibility observation
+PASS traversal names are detected, never extracted
+PASS windows backslash traversal
+PASS absolute drive path
+PASS harmless double dots inside filename
+PASS case collisions preserved
+PASS signature file is not a verified signature
+PASS nested archive stays an inventory gap
+PASS malformed class header
+PASS remote manifest classpath
+PASS multi-release classes do not raise base version
+PASS undeclared multi-release directory
+PASS compression expansion warning
+PASS oversized manifest rejected
+PASS malformed ZIP rejected
+PASS JSON escapes controls and quotes
+Entries: 1; findings for review: 0
+PASS input hash stable and report generated
+18/18 passed
+Input/report error: zip END header not found
