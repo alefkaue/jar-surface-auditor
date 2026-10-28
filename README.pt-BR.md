@@ -1,7 +1,5 @@
 # JAR Surface Auditor
 
-**Área do portfólio:** [Desenvolvimento de Software](https://github.com/alefkaue#desenvolvimento-de-software) · **Contexto:** Projeto pessoal
-
 Projeto pessoal em **Java**, desenvolvido com assistência de IA, exemplos sintéticos
 e testes executáveis. Análise defensiva offline; não executa exploração nem altera o ambiente analisado.
 

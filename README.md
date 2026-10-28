@@ -1,7 +1,5 @@
 # JAR Surface Auditor
 
-**Portfolio area:** [Software Development](https://github.com/alefkaue#desenvolvimento-de-software) · **Context:** Personal project
-
 **Java · offline defensive analysis · original personal portfolio project**
 
 Inspect Java archive structure and deployment metadata without loading classes or extracting archive entries.
